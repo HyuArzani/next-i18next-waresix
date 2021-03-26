@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+
+# Dist
+.next
+out
+
+# OS
+.DS_Store
+
+# Development Environment
+.vscode
+.idea
+
+# Logs
+*.log
+
+# Testing
+coverage/
+
+# npm
+package-lock.json
