@@ -20,7 +20,7 @@ A live demo is [available here](http://next-i18next.com/). Please be aware this 
 ### 1. Installation
 
 ```jsx
-yarn add next-i18next
+yarn add next-i18next-waresix
 ```
 
 You need to also have `react` and `next` installed.
@@ -47,7 +47,7 @@ If you want to structure your translations/namespaces in a custom way, you will 
 The default export of `next-i18next` is a class constructor, into which you pass your config options. The resulting class has all the methods you will need to translate your app:
 
 ```jsx
-import NextI18Next from 'next-i18next'
+import NextI18Next from 'next-i18next-waresix'
 
 const NextI18NextInstance = new NextI18Next({
   defaultLanguage: 'en',
