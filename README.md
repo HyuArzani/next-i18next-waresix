@@ -7,6 +7,7 @@
 **The easiest way to translate your NextJs apps.**
 
 ## What is this?
+from [next-i18next](https://github.com/isaachinman/next-i18next/releases/tag/v1.2.1) with custom fixed Router used for Next Js version above 9.5
 
 `next-i18next` is a plugin for [Next.js](https://nextjs.org/) projects that allows you to get translations up and running quickly and easily, while fully supporting SSR, multiple [namespaces](https://www.i18next.com/principles/namespaces) with codesplitting, etc.
 
